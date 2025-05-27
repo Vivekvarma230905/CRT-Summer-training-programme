@@ -129,13 +129,25 @@ Includes:
 ## 📸 Output Flow (UI Screens)
 
 - **Home Page**: Navigation to Admin and Student Login  
-
+![Screenshot 2025-05-26 190132](https://github.com/user-attachments/assets/59881f4b-25f4-4c9e-b256-5b125a7c65c9)
 
 - **Admin Login**: Username/password authentication → Dashboard  
+![Screenshot 2025-05-26 190309](https://github.com/user-attachments/assets/f203b2b0-0a64-433a-be5d-f7a8223b11f4)
+
 - **Student Registration**: Inputs → Stored in DB → Success message  
+![Screenshot 2025-05-26 192739](https://github.com/user-attachments/assets/04279be2-37f4-4346-a0dd-98b93a09a337)
+
 - **Student Login**: ID and phone verification → Dashboard  
-- **Admin Dashboard**: Add expense, attendance, view bills  
-- **Student Dashboard**: View attendance and expense history  
+![Screenshot 2025-05-26 193020](https://github.com/user-attachments/assets/4c4a35e8-9bc0-48bd-bcef-bd031f74e895)
+
+- **Admin Dashboard**: Add expense, attendance, view bills 
+![Screenshot 2025-05-26 193216](https://github.com/user-attachments/assets/ad1aae1f-4da7-4397-9431-72d37203e101)
+ 
+- **Attendance**: 
+![Screenshot 2025-05-26 193400](https://github.com/user-attachments/assets/18a3b1ae-aaa2-4fe0-b231-578bcd1aa6f6)
+
+- **Calculate Monthly Bill**:
+![Screenshot 2025-05-26 193532](https://github.com/user-attachments/assets/5011eb5e-3eda-4290-9fc6-5504ae333ee3)
 
 ---
 
